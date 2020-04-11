@@ -12,7 +12,13 @@ A pre-print version of the paper is [also available on arXiv](https://arxiv.org/
 
 ## Repository Status
 
-This repository is currently under construction. We will be gradually cleaning and uploading our code. Please check back frequently!
+This repository is currently under construction. Eventually, it will contain the code for:
+
+- **Ordinal-CLDP** for collecting user data that stem from finite and discrete metric spaces. Examples include malware infection counts, letters and strings ordered by dictionary order, categorical domains with tree-structured domain taxonomy.
+- **Item-CLDP** for collecting user data that stem from non-ordinal discrete spaces. Examples include OS versions, merchant transactions, emojis, and so forth.
+- **Sequence-CLDP** for collecting user data that correspond to a *sequence of items*. Examples include computer log files, genomics (DNA sequences), web browsing histories, and location traces. 
+
+We will be gradually cleaning and uploading the code for these protocols. Please check back frequently!
 
 ## Project Status
 
