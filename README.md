@@ -12,7 +12,7 @@ A pre-print version of the paper is [also available on arXiv](https://arxiv.org/
 
 ## Repository Status
 
-This repository is currently under construction. Eventually, it will contain the code for:
+This repository is currently under construction. Eventually, it will contain implementations of the following protocols:
 
 - **Ordinal-CLDP** for collecting user data that stem from finite and discrete metric spaces. Examples include malware infection counts, letters and strings ordered by dictionary order, categorical domains with tree-structured domain taxonomy.
 - **Item-CLDP** for collecting user data that stem from non-ordinal discrete spaces. Examples include OS versions, merchant transactions, emojis, and so forth.
