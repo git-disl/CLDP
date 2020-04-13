@@ -22,7 +22,7 @@ We will be gradually cleaning and uploading the code for these protocols. Please
 
 ## Project Status
 
-There is ongoing work in our lab regarding LDP, CLDP, and privacy-preserving data analytics. Meanwhile, the code in this repository is provided as is, without warranty or support. If you use our code, please cite:
+There is ongoing work in our lab regarding LDP, CLDP, and privacy-preserving data analytics. The code in this repository is provided as is, without warranty or support. It is maintained by [M. Emre Gursoy](https://www.memregursoy.com). If you use our code, please cite:
 
 ```
 @article{gursoy2019secure,
